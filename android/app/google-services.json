@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "568210005885",
+    "project_id": "assignment4-30736",
+    "storage_bucket": "assignment4-30736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568210005885:android:8e5ad066cfabd172e6b614",
+        "android_client_info": {
+          "package_name": "com.example.iba_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568210005885-ma7rsk03vi0slri75jkdou4lgrgofndv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsdEH9AEhYmJWg_yQ05vifRD9id18Cz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568210005885-ma7rsk03vi0slri75jkdou4lgrgofndv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568210005885-76fb3j7kj7lidu3irn2qtri8tcqsslao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pk.nabeel.crashcourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568210005885:android:782e5faf91893a3ae6b614",
+        "android_client_info": {
+          "package_name": "pk.nabeel.crashcourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568210005885-ma7rsk03vi0slri75jkdou4lgrgofndv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsdEH9AEhYmJWg_yQ05vifRD9id18Cz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568210005885-ma7rsk03vi0slri75jkdou4lgrgofndv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568210005885-76fb3j7kj7lidu3irn2qtri8tcqsslao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pk.nabeel.crashcourse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

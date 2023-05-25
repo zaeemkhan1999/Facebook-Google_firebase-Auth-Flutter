@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">iba_course</string>
+<string name="facebook_app_id">187185614141569</string>
+<string name="fb_login_protocol_scheme">fb1234</string>
+<string name="facebook_client_token">f510e4f2b57b068dc872b76f20dd2994</string>
+
+
+</resources>
